@@ -63,6 +63,8 @@ goingToAnotherPage.addEventListener('select', event => {
 
 //dblclick
 
+
+
 const firstSignUp = document.getElementsByClassName('btn')[0];
 firstSignUp.addEventListener('dblclick', event => {
     alert('Don\'t break your mouse! 1');
